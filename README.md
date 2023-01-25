@@ -1,2 +1,2 @@
-# SelfTools
+# Self Tools
 Tools for myself
