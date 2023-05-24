@@ -7,4 +7,4 @@ The programme is used for scanning MySQL 8 reserved keywords in all text-based f
 3. run `python scan.py` to start scanning
 
 ## Requirement
-Python 3.10
+Python 3.10.10
