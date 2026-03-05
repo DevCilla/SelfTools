@@ -1,5 +1,5 @@
 ## Purpose
-The programme is used for scanning MySQL 8 reserved keywords in all text-based files under a directory, including the sub-directories
+The program is used for scanning MySQL 8 reserved keywords in all text-based files under a directory, including the sub-directories
 
 ## Usage
 1. save the keywords in keywords.py as a string array
