@@ -1,5 +1,5 @@
 ## Purpose
-This programme is used for making mobile device screencaptures.  
+This program is used for making mobile device screencaptures.  
 It will visit desired website in mobile mode, and capture the screenshots automatically.  
 The screenshots will then be cropped into desired size as to fit the image frame of the mobile device.  
 Finally, the cropped images will be merged to the mobile device frame 
